@@ -38,14 +38,15 @@ $(function(){
 		$('.brandpage-btn01').click(function(){
 			sendEvent('首頁浮動選單','click','愛紗美力隨身C帶');
 			setTimeout(function(){
-				location.href="hiceetab";
+				/* location.href="hiceetab";*/
+				window.open("https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E5%8F%B0%E7%81%A3%E6%AD%A6%E7%94%B0&searchType=6&curPage=1&_isFuzzy=0&brand=%E5%8F%B0%E7%81%A3%E6%AD%A6%E7%94%B0&brandNo=20190703150020799&showType=chessboardType", "_blank");
 			},300)
 			return false;
 		})
 		$('.brandpage-btn02').click(function(){
 			sendEvent('首頁浮動選單','click','愛紗的美麗秘密');
 			setTimeout(function(){
-				location.href="eclass";
+				location.href="eclass.html"; // FIXME 消除.html
 			},300)
 			return false;
 		})
