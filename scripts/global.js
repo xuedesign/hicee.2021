@@ -79,7 +79,7 @@ $(function(){
 		if(location.href.indexOf('hiceetab')>=0){
 			closeMenu();
 		}else{
-			location.href="hiceetab.html";
+			location.href="hiceetab.html"; // FIXME 消除.html
 		}
 		return false;
 	}).find('a').attr('href','hiceetab');
@@ -88,7 +88,7 @@ $(function(){
 		if(location.href.indexOf('eclass')>=0){
 			closeMenu();
 		}else{
-			location.href="eclass.html";
+			location.href="eclass.html"; // FIXME 消除.html
 		}
 		return false;
 	}).find('a').attr('href','eclass');
