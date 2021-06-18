@@ -148,9 +148,9 @@
             <div class="person">
                 <img src="images/hiceec/kv_sperson.png" class="pc">
                 <img src="images/hiceec/m_kv_sperson.png" class="mb">
-                <div class="person-tip mb">
+                <!-- <div class="person-tip mb">
                     <img src="images/hiceec/m_kv_say.png">
-                </div>
+                </div> -->
             </div>
             <div class="main">
                 <div class="title">
@@ -257,11 +257,11 @@
             <div class="area2">
                 <div class="area2-top">
                     <div class="area2-title">
-                        <img src="images/hiceec/product_title.png" class="pc">
-                        <img src="images/hiceec/m_product_title.png" class="mb">
+                        <!-- <img src="images/hiceec/product_title.png" class="pc">
+                        <img src="images/hiceec/m_product_title.png" class="mb"> -->
                     </div>
                     <div class="area2-sp pc">
-                        <img src="images/hiceec/product_sp.png">                        
+                        <!-- <img src="images/hiceec/product_sp.png"> -->                        
                     </div>
                 </div>
                 <div class="area2-center">
