@@ -52,7 +52,7 @@ body.unscroll {
 }
 .brandpage-btn01,.brandpage-btn01 a{
     width: 76px;
-    height: 245px;
+    height: 260px;/* 245px */
     background:url(../images/brandpage_btn01.png) top left no-repeat;
     position: fixed;
     z-index: 99;
@@ -64,11 +64,11 @@ body.unscroll {
 }
 .brandpage-btn01{
 
-    margin-top: -245px; 
+    margin-top: -260px; /* 245px */
 }
 .brandpage-btn02,.brandpage-btn02 a{
     width: 76px;
-    height: 245px;
+    height: 260px;/* 245px */
     background:url(../images/brandpage_btn02.png) top left no-repeat;
     position: fixed;
     z-index: 99;

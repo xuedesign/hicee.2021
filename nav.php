@@ -14,11 +14,18 @@
 <div id="menuBox" class="close">
     <div><img src="images/logo_menubox.png"></div>
     <ul>
+        <li><a href="">首頁</a></li>
+        <li><a href="">愛紗的防護力隨身C帶</a></li>
+        <li><a href="">愛紗的醫美級雙重防護</a></li>
+        <li><a href="">維他命C真實解碼</a></li>
+        <li><a href="">日本防護力保健專家</a></li>
+    </ul>
+    <!-- <ul>
         <li><a href="">愛紗的美麗秘密</a></li>
         <li><a href="">愛紗素顏不用妝的美顏神器</a></li>
         <li><a href="">立即擁有醫美級光采</a></li>
         <li><a href="">維他命C真實解碼</a></li>
         <li><a href="">日本防護力保健專家</a></li>
         <li><a href="">首頁</a></li>
-    </ul>
+    </ul> -->
 </div>

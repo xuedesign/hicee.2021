@@ -74,8 +74,8 @@ $(function(){
 			gScroll(0);closeMenu();
 		}
 	}).find('a').attr('href','.');
-	$('#menuBox li:eq(0)').click(function(){
-		sendEvent('總選單_愛紗美力隨身C帶','click','總選單_愛紗美力隨身C帶');
+	$('#menuBox li:eq(1)').click(function(){
+		sendEvent('總選單_愛紗的防護力隨身C帶','click','總選單_愛紗的防護力隨身C帶');
 		if(location.href.indexOf('hiceetab')>=0){
 			closeMenu();
 		}else{
@@ -83,8 +83,8 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','hiceetab');
-	$('#menuBox li:eq(1)').click(function(){
-		sendEvent('總選單_愛紗的美麗秘密','click','愛紗的美麗秘密');
+	$('#menuBox li:eq(2)').click(function(){
+		sendEvent('總選單_愛紗的醫美級雙重防護','click','愛紗的醫美級雙重防護');
 		if(location.href.indexOf('eclass')>=0){
 			closeMenu();
 		}else{
@@ -92,7 +92,7 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','eclass');
-	$('#menuBox li:eq(2)').click(function(){
+	$('#menuBox li:eq(3)').click(function(){
 		sendEvent('總選單_維他命C真實解碼','click','維他命C真實解碼');
 		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0){
 			location.href="index.html#decoding";
@@ -102,7 +102,7 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','.#decoding');
-	$('#menuBox li:eq(3)').click(function(){
+	$('#menuBox li:eq(4)').click(function(){
 		sendEvent('總選單_日本防護力保健專家','click','日本防護力保健專家');
 		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0){
 			location.href="index.html#50y";
@@ -112,7 +112,7 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','.#50y');
-	$('#menuBox li:eq(4)').click(function(){
+	$('#menuBox li:eq(0)').click(function(){
 		sendEvent('總選單_首頁','click','回首頁');
 		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0){
 			location.href="index.html";
