@@ -642,6 +642,12 @@ footer {
 		background-image: url(../images/eclass/m_kv_bg.png);
         background-size: cover;
 	}
+    #mypc{
+        display: none;
+    }
+    #mymb{
+        display: block;
+    }
 	.kv .slogan {
 	    position: absolute;
 	    right: 5vw;
@@ -651,7 +657,7 @@ footer {
 		width: 448px;
 		bottom: -8vh;
 	    left: initial;
-        right: 0px;
+        right: 30px;
 	    margin: 0 0 0 0px;
 	}
 	.kv .signature{
@@ -670,7 +676,13 @@ footer {
         justify-content: flex-start;
 		/*padding-left: 23px;*/
 	}
-	.kv .main .title{padding-left: 23px;margin-top: 6vh;}
+	.kv .main .title{padding-left: 23px;margin-top: 2vh;}
+    .kv .main .title img{
+        display: block;
+        width:87%;
+        height: auto;
+        margin: 0 auto;
+    }
 	.kv .kv-pro{
 		padding-left: 0px;
 		margin-top: 10vh;
@@ -849,9 +861,6 @@ footer {
         /*bottom: */
     }
 }
-
-
-
 @media screen and (max-width: 640px) and (min-height:1200px){
     .kv{
         height: calc(100vh - 70px); 
