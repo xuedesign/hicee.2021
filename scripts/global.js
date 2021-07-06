@@ -121,6 +121,15 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','.');
+	$('#menuBox li:eq(5)').click(function(){
+		sendEvent('總選單_常見問題Q&A','click','常見問題Q&A');
+		if(location.href.indexOf('eclass')>=0){
+			closeMenu();
+		}else{
+			location.href="qa.html"; // FIXME 消除.html
+		}
+		return false;
+	}).find('a').attr('href','eclass');
 
 	$('.rule .close-button').click(function(){
 		if($('.form').length>0 && $('.form').css('display')!='none'){
