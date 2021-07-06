@@ -361,8 +361,8 @@
                 <div class="logo"><img src="images/logo_main.png"></div>
                 <div class="footer-line"></div>
                 <p>本網站係台灣武田藥品工業股份有限公司所擁有，其內容之著作權亦屬於台灣武田藥品工業股份有限公司，非經同意不得轉載。
-                    <br /> Copyright © Takeda Pharmaceutical Taiwan.Ltd. 2018 台灣武田藥品工業股份有限公司版權所有
-                </p>
+                <br> Copyright © Takeda Pharmaceutical Taiwan.Ltd. 2018 台灣武田藥品工業股份有限公司版權所有
+                <br>C-APROM/TW/AAS/0006 July 2021</p>
             </div>
         </footer>
     </div>
