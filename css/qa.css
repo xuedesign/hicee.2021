@@ -471,3 +471,10 @@ input:checked ~ label .cross:after {
     }
     
 }
+
+@media screen and (max-width: 455px) {
+    h2{
+        height:150px;
+        margin-top: 50px;
+    }
+}
