@@ -266,6 +266,24 @@
 }
 
 /* 2021-07 新增 */
+h2{
+    display: block;
+    width: 100%;
+    height:212px;
+    background:url(../images/title_qa.png)no-repeat;
+    background-size: contain;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden
+}
+.wrapbox{
+    display: block;
+    width:100%;
+    border-bottom: 1px solid #9F9F9F;
+    /* padding-bottom: 20px; */
+    text-align: left;
+    margin: 15px auto 
+}
 input {
     display: none;
 }
@@ -273,22 +291,47 @@ input {
 label {
     display: flex;
     width: 100%;
-    height: 50px;
+    /* height: 50px; */
     cursor: pointer;
-    border: 3px solid #3E474F;
+    /* border: 3px solid #3E474F; */
     user-select: none;
 }
 
 label div:first-child {
     width: 100%;
-    line-height: 45px;
+    font-Size:22px;
+    font-weight: bold;
+    line-height: 35px;
+    color: #615E5E;
     margin-left: 10px;
-    font-size: 1.2em;
+    padding-top: 15px;
+    letter-spacing: 1px;
+}
+
+label div:first-child > h3{
+    display:inline-block;
+    color: #FF9431;
+    font-size: 30px;
+    width: 60px;
+    border-right: 1px solid #9F9F9F;
+    margin-right: 20px;
+}
+
+label div:first-child > h3 span{
+    font-size:20px;
+    padding: 0 10px 0 3px;
+}
+
+label div:first-child > h3::after{
+    content:"";
+    color: #9F9F9F;
+    padding: 0 10px 0 0;
 }
 
 .cross{
     margin-right:15px;
     margin-top:3px;
+    padding-top: 15px;
 }
 
 .cross:before,.cross:after {
@@ -307,11 +350,14 @@ label div:first-child {
 
 .content {
     box-sizing: border-box;
-    font-size: 0.9em;
+    font-size: 18px;
+    line-height: 30px;
+    color: #726a6a;
     margin: 10px 10px;
     max-height: 0;
     overflow: hidden;
-    transition: max-height, .5s;
+    transition: max-height, 0s;/* .5s */
+    padding-left: 80px;
 }
 
 input:checked ~ .content {
@@ -326,74 +372,6 @@ input:checked ~ label .cross:before {
 input:checked ~ label .cross:after {
     transform: rotate(0deg);
 }
-
-.questions{
-    margin-top:20px;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height, .5s;
-}
-
-.questions label{
-    border:none;
-    box-shadow: none;
-    margin:0;
-}
-
-input:checked ~ .questions {
-    max-height: 400px;
-    border-bottom:2px solid #3E474F;
-    transition: 1s;
-}
-
-/*----------tool-tip------------*/
-
-.tip {
-    color: #f03768;
-    cursor: help;
-    position: relative;
-    overflow: visible;
-    font-family: monospace;
-    font-size: 1.3em;
-}
-
-.tip:before,
-.tip:after {
-    position: absolute;
-    opacity: 0;
-    z-index: -100;    
-    transform: translateY(-30%);
-    transition: .4s;
-}
-
-.tip:before {
-    content: '';
-    border-style: solid;
-    border-width: 0.8em 0.5em 0 0.5em;
-    border-color: #3E474F transparent transparent transparent;
-    transform: translateY(-200%);
-    bottom:90%;
-    left:50%;
-}
-
-.tip:after {
-    content: attr(data-tip);
-    background: #3E474F;
-    color: white;
-    width: 150px;
-    padding: 10px;
-    font-size: 0.8em;
-    bottom: 150%;
-    left: -50%;
-}
-
-.tip:hover:before,
-.tip:hover:after {
-    opacity: 1;
-    z-index: 100;
-    transform: scaleY(1);
-}
-
 
 @media screen and (max-width: 1366px) {
     .pro-orange1 {
@@ -452,6 +430,26 @@ input:checked ~ .questions {
     }
 }
 
+@media screen and (max-width: 1100px) {
+    .leave,
+    .pro-orange1,
+    .pro-orange2,
+    .pro-orange3,
+    .pro-lemon1,
+    .pro-lemon2,
+    .pro-lemon3{
+        display:none;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .bread{ display:none}
+    .proContent {
+        width: 90%;
+        max-width: 90%
+        margin: 0 auto 110px auto;
+    }
+}
 
 @media screen and (max-width: 640px) {
     .slick-slide {
