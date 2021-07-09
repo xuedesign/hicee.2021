@@ -266,7 +266,7 @@
 }
 
 /* 2021-07 新增 */
-h2{
+/* h2{
     display: block;
     width: 100%;
     height:212px;
@@ -275,6 +275,16 @@ h2{
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden
+} */
+h2{
+    display: block;
+    width: 100%;
+    margin: 0 auto 50px auto;
+}
+h2 img {
+    display: block;
+    width: 100%;
+    height: auto;
 }
 .wrapbox{
     display: block;
@@ -451,8 +461,7 @@ input:checked ~ label .cross:after {
     }
 
     h2{
-        height:190px;
-        margin-top: 50px;
+        margin: 50px auto;
     }
 }
 
@@ -469,10 +478,10 @@ input:checked ~ label .cross:after {
     .wrap {
         overflow-x: hidden;
     }
-    h2{
+    /* h2{
         height:130px;
         margin-top: 50px;
-    }
+    } */
     
 }
 
