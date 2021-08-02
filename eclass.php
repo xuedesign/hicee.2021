@@ -48,7 +48,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/global.css">
-    <link rel="stylesheet" type="text/css" href="css/eclass.css?t=2020">
+    <link rel="stylesheet" type="text/css" href="css/eclass.css">
     <script type="text/javascript">
     var pageName = "eclass"
     </script>
@@ -122,10 +122,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </ul>
     </div>
     <!-- <div class="falling-leaves"></div> -->
-    <div class="fixed-btn">
+
+    <!-- <div class="fixed-btn">
         <div class="btn"><a href=""></a></div>
-        <!-- <div class="btn2"><a href=""></a></div> -->
-    </div>
+        <div class="btn2"><a href=""></a></div>
+    </div> -->
+    
     <div class="wrap">
         <section class="kv">
             <div class="bottom-txt">
@@ -137,9 +139,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="main">
                 <div class="title">
                     <img src="images/eclass/kv_title.png">
-                    <div class="tip">
+                    <!-- <div class="tip">
                         <img src="images/eclass/kv_title_tip.png">
-                    </div>
+                    </div> -->
                 </div>
                 <div class="kv-pro">
                     <div><img src="images/eclass/kv_pro1.png"></div>
@@ -160,6 +162,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <img src="images/eclass/kv_slogan.png">
             </div>
         </section>
+
+
         <section class="info">
             <article>
                 <div class="area-front">
