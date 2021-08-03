@@ -590,6 +590,15 @@ footer {
         right: 40px;
     }
 }*/
+@media screen and (max-width: 375px) {
+    .kv .person{
+		width: 430px;
+		bottom: -8vh;
+	    left: initial;
+        right: 30px;
+	    margin: 0
+	}
+}
 @media screen and (max-width: 640px) {
 	.mb{display: block;}
 	.pc{display: none;}
@@ -664,7 +673,7 @@ footer {
 		bottom: -8vh;
 	    left: initial;
         right: 30px;
-	    margin: 0 0 0 0px;
+	    margin: 0;
 	}
 	.kv .signature{
 		bottom: 240px;
