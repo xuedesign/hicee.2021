@@ -267,10 +267,12 @@
                 </div>
                 <div class="area2-center">
                     <div class="area2-txt">
+                    <a href="https://www.momoshop.com.tw/search/searchShop.jsp?keyword=%E5%8F%B0%E7%81%A3%E6%AD%A6%E7%94%B0&searchType=6&curPage=1&_isFuzzy=0&brand=%E5%8F%B0%E7%81%A3%E6%AD%A6%E7%94%B0&brandNo=20190703150020799&showType=chessboardType&utm_source=Hiceebrandsite&utm_medium=brandsitelink&utm_campaign=brandsite" title="前往momo購物網" target="_blank">
                         <img src="images/hiceec/product_txt.png" class="pc">
                         <img src="images/hiceec/m_product_txt.png" class="mb">
+                    </a>    
                     </div>
-                    <div class="area2-tip1">
+                    <!-- <div class="area2-tip1">
                         <img src="images/hiceec/product_tip1.png" class="pc">
                         <img src="images/hiceec/m_product_tip1.png" class="mb">
                     </div>
@@ -347,7 +349,7 @@
                             </div>
                         </div>
                         
-                    </div>
+                    </div> -->
 
                 </div>
                 <div class="area2-bottom" style="display: none;">
