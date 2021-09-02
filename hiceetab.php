@@ -56,18 +56,18 @@
     <!-- <script type="text/javascript" src="scripts/stage.js?t=1017"></script> -->
     <script type="text/javascript" src="scripts/hiceec.js?t=1217"></script>
     <!-- <script type="text/javascript" src="scripts/confetti.js"></script> -->
-    <meta name="title" content="冬季保養，愛紗首重防護力！" />
-    <meta name="description" content="日日愛喜，愛紗隨身C帶的美力小物—愛喜C口嚼錠！隨時不忘補充防護力，酸甜滋味，一錠美力！" />
-    <meta property="og:title" content="冬季保養，愛紗首重防護力！" />
-    <meta property="og:description" content="日日愛喜，愛紗隨身C帶的美力小物—愛喜C口嚼錠！隨時不忘補充防護力，酸甜滋味，一錠美力！" />
+    <meta name="title" content="愛紗防護力首選！" />
+    <meta name="description" content="日日愛喜，愛紗隨身C帶的美力小物—愛喜C口嚼錠！隨時不忘補充防護力！" />
+    <meta property="og:title" content="愛紗防護力首選！" />
+    <meta property="og:description" content="日日愛喜，愛紗隨身C帶的美力小物—愛喜C口嚼錠！隨時不忘補充防護力！" />
     <meta property="og:url" content="http://www.hicee.com.tw/hiceetab" />
     <meta property="og:image" content="http://www.hicee.com.tw/images/share_hiceec.jpg" />
     <meta property="og:type" content="website" />
-    <meta property="keywords" content="台灣武田, 愛喜C, 隨身C帶, 愛紗,冬日必備, 隨時一錠, 補充美力, 補充防護力, 隨時隨地, 輕鬆給力" />
+    <meta property="keywords" content="台灣武田, 愛喜C, 隨身C帶, 愛紗,夏日必備, 隨時一錠, 補充美力, 補充防護力, 隨時隨地, 輕鬆給力" />
     <link rel="icon" href="http://www.hicee.com.tw/images/16x16.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="http://www.hicee.com.tw/images/16x16.png" type="image/x-icon" />
 
-    <title>冬季保養，愛紗首重防護力！</title>
+    <title>愛紗防護力首選！</title>
     <meta content='hiceec' name='author'>
 
     <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10073066'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
@@ -80,11 +80,24 @@
     <!-- End Google Tag Manager -->
 
     <script type="application/javascript">(function(w,d,t,r,u){w[u]=w[u]||[];w[u].push({'projectId':'10000','properties':{'pixelId':'10118239'}});var s=d.createElement(t);s.src=r;s.async=true;s.onload=s.onreadystatechange=function(){var y,rs=this.readyState,c=w[u];if(rs&&rs!="complete"&&rs!="loaded"){return}try{y=YAHOO.ywa.I13N.fireBeacon;w[u]=[];w[u].push=function(p){y([p])};y(c)}catch(e){}};var scr=d.getElementsByTagName(t)[0],par=scr.parentNode;par.insertBefore(s,scr)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-55KQNF2');</script>
+    <!-- End Google Tag Manager -->
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4S8CKV"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55KQNF2"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
     
