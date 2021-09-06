@@ -178,8 +178,120 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
         <section class="info">
-            <article>
-                <div class="area-front">
+            <!--#202106新增-->
+            <article style="padding-top: 30px;">
+                <div class="leave pro-lemon1"><img src="images/lemon1.png"></div>
+                <div class="leave pro-lemon2 pro-lemon4"><img src="images/lemon2.png"></div>
+                <div class="leave pro-lemon3"><img src="images/lemon3.png"></div>
+                <div class="leave pro-leave1"><img src="images/leave7.png"></div>
+                <div class="leave pro-leave2"><img src="images/leave1.png"></div>
+                <div class="leave pro-leave3"><img src="images/leave3.png"></div>
+                <div class="leave pro-leave5"><img src="images/flip_leave1.png"></div>
+                <div class="leave pro-leave6"><img src="images/flip_leave1.png"></div>
+                <div class="proContent">
+                    <div class="pro-img">
+                        <div class="pro-list">
+                            <div>
+                                <img class="pcshow" src="images/pro_3_1.png">
+                                <img class="mbshow" src="images/m_pro_3_1.png">
+                            </div>
+                            <div>
+                                <img class="pcshow" src="images/pro_3_2.png">
+                                <img class="mbshow" src="images/m_pro_3_2.png">
+                            </div>
+                            <div>
+                                <img class="pcshow" src="images/pro_3_3.png">
+                                <img class="mbshow" src="images/m_pro_3_3.png">
+                            </div>
+                        </div>
+                        <!-- <div class="pro-tip">
+                            <img src="images/pro_3_tip.png">
+                        </div> -->
+                        
+                    </div>
+                    <div class="pro-title">
+                        <div><img class="pcshow" src="images/pro_3_title.png"><img class="mbshow" src="images/m_pro_3_title.png"></div>
+                        <p><span class="yellow">日本製造 醫療級C+E</span><br>維生素C+E 雙重防護</p>
+                    </div>
+                    
+                    <div class="pro-form">
+                        <dl>
+                            <dt> 主要成份</dt>
+                            <dd>
+                                <img class="pcshow" src="images/pro_3_form.png">
+                                <img class="mbshow" src="images/m_pro_3_form.png">
+                            </dd>
+                            <dd style="font-size: 13px;    line-height: 1.2em;    padding: .5em;">
+                                其他成份 : Erythritol, aspartame(L-phenylalanine<br>compound), anhydrous silicic acid and corn starch
+                            </dd>
+                        </dl>
+                        
+                        <dl class="fun-2">
+                            <dt>食用方法</dt>
+                            <dd>請依照以下用量，直接口服，<br>或口服後以水或溫水吞服</dd>
+                            <dd style="padding: 1em 0em;"><img class="pcshow" src="images/pro_3_form2.png"><img class="mbshow" src="images/m_pro_3_form2.png"></dd>
+                        </dl>
+                        <dl class="fun-3">
+                            <dt>每日劑量  </dt>
+                            <dd>維生素E、C、B2缺乏之補充劑</dd>
+                        </dl>
+                        <dl class="fun-6">
+                            <dt><p>包裝</p><p>原產地</p></dt>
+                            <dd><p>14包</p><p>日本</p></dd>
+                        </dl>
+                    </div>
+                    <div class="pro-fun pro-fun2">
+                        <dl class="fun-1">
+                            <dt>【產品特色】</dt>
+                            <dd>日本製造</dd>
+                            <dd>獨特顆粒，迅速溶解於口中 </dd>
+                            <dd>單包鋁箔裝，攜帶方便 隨時補充</dd>
+                            <dd>免沖泡 可直接口服</dd>
+                            <dd>抗氧化、改善血液循環</dd>
+                            <dd>減少黑斑、雀斑、色素沉澱</dd>
+                            <dd>不含糖、不含鈉</dd>
+                            <dd>補充維生素E、C、B2</dd>
+                        </dl>
+                        <dl class="fun-1 fun-2">
+                            <dt>效能</dt>
+                            <dd>可緩和因日曬或皮疹所引起的黑斑、<br>雀斑、色素沉澱</dd>
+                            <dd>緩和因末梢血液循環障礙所導致的肩頸酸痛、<br>手腳發麻、手腳發冷</dd>
+                            <dd>在身體疲勞時、生病或病後體力衰弱時，<br>補充維生素E、C、B2</dd>
+                        </dl>
+                        
+                        <dl class="fun-4">
+                            <dt>食用方法</dt>
+                            <dd>請依照以下用量，直接口服，<br>或口服後以水或溫水吞服</dd>
+                            <dd style="padding: 1em 0em;"><img class="pcshow" src="images/pro_3_form2.png"><img class="mbshow" src="images/m_pro_3_form2.png"></dd>
+                        </dl>
+                        <dl class="fun-4">
+                            <dt>每日劑量  </dt>
+                            <dd>維生素E、C、B2缺乏之補充劑</dd>
+                        </dl>
+                        <dl class="fun-6">
+                            <dt><p>包裝</p><p>原產地</p></dt>
+                            <dd><p>14包</p><p>日本</p></dd>
+                        </dl>
+                        <dl class="fun-3">
+                            <dt>販售通路</dt>
+                            <dd>全台屈臣氏、康是美、各大藥局
+                            <!-- <br>全聯福利中心、--></dd>
+                        </dl>
+                        
+                    </div>
+                    <div class="pro-event">
+                        <dl>
+                            <dd>
+                                <dd>衛部藥輸字第026134號 北市衛藥廣字第108100041號 <br>本品為醫師藥師藥劑生指示藥品，使用前請詳閱說明書警語與注意事項</dd>
+                            </dd>
+                            
+                        </dl>
+                    </div>
+                </div>
+            </article>
+
+            <article style="padding: 0;">
+                <!-- <div class="area-front">
                     <div class="article-pic">
                         <img src="images/eclass/article1_pic.png">
                         <div class="pic-msg"><img src="images/eclass/article1_pic_say.png"></div>
@@ -199,10 +311,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <img src="images/eclass/m_article1_txt.png" class="mb">
                         <div class="btn-share btn"><a href=""></a></div>
                     </div>
-                </div>
+                </div> -->
             </article>
-            <article>
-                <div class="area-front">
+            <article style="padding: 0;">
+                <!-- <div class="area-front">
                     <div class="article-pic">
                         <img src="images/eclass/article2_pic.png">
                         <div class="pic-msg"><img src="images/eclass/article2_pic_say.png"></div>
@@ -210,7 +322,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <div class="article-title">
                         <img src="images/eclass/article2_title.png" class="pc">
                         <!-- <img src="images/eclass/m_article2_title.png" class="mb"> -->
-                    </div>
+                <!--    </div>
                 </div>
                 <div class="area-back">
                     <div class="article-data">
@@ -220,10 +332,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <img src="images/eclass/article2_txt.png"  class="pc">
                         <img src="images/eclass/m_article2_txt.png" class="mb">
                     </div>
-                </div>
+                </div> -->
             </article>
             <div class="bottom-txt">
-                <div class="note s2"></div>
+                <!-- <div class="note s2"></div> -->
             </div>
         </section>
 <!--         <section class="blogger">
