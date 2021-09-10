@@ -217,7 +217,7 @@
                     
                     <div class="pro-form">
                         <dl>
-                            <dt> 主要成份</dt>
+                            <dt>主要成份</dt>
                             <dd>
                                 <img class="pcshow" src="images/pro_3_form.png">
                                 <img class="mbshow" src="images/m_pro_3_form.png">
@@ -233,7 +233,7 @@
                             <dd style="padding: 1em 0em;"><img class="pcshow" src="images/pro_3_form2.png"><img class="mbshow" src="images/m_pro_3_form2.png"></dd>
                         </dl>
                         <dl class="fun-3">
-                            <dt>每日用途 (適應症)</dt>
+                            <dt>用途 (適應症)</dt>
                             <dd>維生素E、C、B2缺乏之補充劑</dd>
                         </dl>
                         <dl class="fun-6">
