@@ -52,9 +52,9 @@
     <link rel="icon" href="http://www.hicee.com.tw/images/16x16.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="http://www.hicee.com.tw/images/16x16.png" type="image/x-icon" />
     <meta name="title" content="現在的愛紗愛上更好的自己！日本女生自我保養有一套" />
-    <meta name="description" content="日本製武田愛喜活麗皙E-class，1天2包，有效淡化黑斑，隨時好氣色，從內而外散發健康光采！" />
+    <meta name="description" content="日本製合利他命愛喜活麗皙E-class，1天2包，有效淡化黑斑，隨時好氣色，從內而外散發健康光采！" />
     <meta property="og:title" content="現在的愛紗愛上更好的自己！日本女生自我保養有一套" />
-    <meta property="og:description" content="日本製武田愛喜活麗皙E-class，1天2包，有效淡化黑斑，隨時好氣色，從內而外散發健康光采！" />
+    <meta property="og:description" content="日本製合利他命愛喜活麗皙E-class，1天2包，有效淡化黑斑，隨時好氣色，從內而外散發健康光采！" />
     <meta property="og:url" content="http://www.hicee.com.tw/eclass" />
     <meta property="og:image" content="http://www.hicee.com.tw/images/share_eclass.jpg" />
     <meta property="og:type" content="website" />
@@ -125,6 +125,7 @@
             <li><a href="">維他命C真實解碼</a></li>
             <li><a href="">日本防護力保健專家</a></li>
             <li><a href="">常見問題Q&A</a></li>
+            <li><a href="">愛喜新包裝上市</a></li>
         </ul>
     </div>
     <div class="falling-leaves"></div>
@@ -341,7 +342,7 @@
                 </div>
                 <div class="area-l">
                     <div class="pic pic1"><img src="images/album_pic2_1.png"></div>
-                    <div class="pic pic3"><img src="images/album_pic2_2.png"></div>
+                    <div class="pic pic3"><img src="images/album_pic2_4.png"></div>
                     <div class="pic pic2"><img src="images/album_pic2_3.png"></div>
                 </div>
                 
@@ -363,9 +364,9 @@
         <div class="footer">
             <div class="logo"><img src="images/logo_main.png"></div>
             <div class="footer-line"></div>
-            <p>本網站係台灣武田藥品工業股份有限公司所擁有，其內容之著作權亦屬於台灣武田藥品工業股份有限公司，非經同意不得轉載。
-                <br> Copyright © Takeda Pharmaceutical Taiwan.Ltd. 2018 台灣武田藥品工業股份有限公司版權所有
-                <br>C-APROM/TW/AAS/0006 July 2021</p>
+            <p>本網站係合利他命藥品股份有限公司所擁有，其內容之著作權亦屬於合利他命藥品股份有限公司，非經同意不得轉載。
+                  <br> Copyright © Alinamin Pharmaceutical Taiwan Ltd. 2022 合利他命藥品股份有限公司版權所有
+                  <br>C-APROM/TW/AAS/0006 April 2022</p>
         </div>
     </footer>
 </body>

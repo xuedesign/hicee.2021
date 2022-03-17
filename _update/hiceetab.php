@@ -56,6 +56,8 @@
     <!-- <script type="text/javascript" src="scripts/stage.js?t=1017"></script> -->
     <script type="text/javascript" src="scripts/hiceec.js?t=1217"></script>
     <!-- <script type="text/javascript" src="scripts/confetti.js"></script> -->
+    <link rel="icon" href="http://www.hicee.com.tw/images/16x16.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="http://www.hicee.com.tw/images/16x16.png" type="image/x-icon" />
     <meta name="title" content="愛紗防護力首選！" />
     <meta name="description" content="日日愛喜，愛紗隨身C帶的美力小物—愛喜C口嚼錠！隨時不忘補充防護力！" />
     <meta property="og:title" content="愛紗防護力首選！" />
@@ -63,7 +65,7 @@
     <meta property="og:url" content="http://www.hicee.com.tw/hiceetab" />
     <meta property="og:image" content="http://www.hicee.com.tw/images/share_hiceec.jpg" />
     <meta property="og:type" content="website" />
-    <meta property="keywords" content="台灣武田, 愛喜C, 隨身C帶, 愛紗,夏日必備, 隨時一錠, 補充美力, 補充防護力, 隨時隨地, 輕鬆給力" />
+    <meta property="keywords" content="台灣合利他命, 愛喜C, 隨身C帶, 愛紗,夏日必備, 隨時一錠, 補充美力, 補充防護力, 隨時隨地, 輕鬆給力" />
     <link rel="icon" href="http://www.hicee.com.tw/images/16x16.ico" type="image/x-icon" />
     <link rel="shortcut icon" href="http://www.hicee.com.tw/images/16x16.png" type="image/x-icon" />
 
@@ -137,6 +139,7 @@
             <li><a href="">維他命C真實解碼</a></li>
             <li><a href="">日本防護力保健專家</a></li>
             <li><a href="">常見問題Q&A</a></li>
+            <li><a href="">愛喜新包裝上市</a></li>
         </ul>
     </div>
     <!-- <div class="falling-leaves"></div> -->
@@ -375,9 +378,9 @@
             <div class="footer">
                 <div class="logo"><img src="images/logo_main.png"></div>
                 <div class="footer-line"></div>
-                <p>本網站係台灣武田藥品工業股份有限公司所擁有，其內容之著作權亦屬於台灣武田藥品工業股份有限公司，非經同意不得轉載。
-                <br> Copyright © Takeda Pharmaceutical Taiwan.Ltd. 2018 台灣武田藥品工業股份有限公司版權所有
-                <br>C-APROM/TW/AAS/0006 July 2021</p>
+                <p>本網站係合利他命藥品股份有限公司所擁有，其內容之著作權亦屬於合利他命藥品股份有限公司，非經同意不得轉載。
+                  <br> Copyright © Alinamin Pharmaceutical Taiwan Ltd. 2022 合利他命藥品股份有限公司版權所有
+                  <br>C-APROM/TW/AAS/0006 April 2022</p>
             </div>
         </footer>
     </div>

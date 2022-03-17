@@ -204,9 +204,10 @@ nav .logo {
 }
 nav .logo-main {
     position: absolute;
-    width: 112px;
+    /* width: 112px; */
+    width: 132px;
     right: 80px;
-    top: 17px;
+    top: 13px;
 /*    margin: 12px 0 0 40px;*/
     z-index: 999;
     opacity: 1;
@@ -907,7 +908,7 @@ nav .logo img,nav .logo-main img {
 }
 
 .pic:nth-child(2) {
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .pic1 {
@@ -1650,8 +1651,9 @@ footer span {
         margin: 21px 0 0 40px;
     }
     nav .logo-main{
-        margin-top: 7px;
-        width: 131px;
+        margin-top: 11px;
+        /* width: 131px; */
+        width: 132px;
     }
     #menuBox {
         width: 100%;
@@ -2089,7 +2091,7 @@ footer .footer{
 footer .logo {
     display: inline-block;
     position: relative;
-    width: 112px;
+    width: 132px;
     vertical-align: middle;
     margin: 0px;
     z-index: 9;
@@ -2127,8 +2129,8 @@ footer p {
 
 
 @media screen and (max-width: 768px) {
-    footer .logo{width: 30%;min-width: 112px;}
-    footer .logo img{max-width: 131px;}
+    footer .logo{width: 30%;min-width: 132px;}
+    footer .logo img{max-width: 132px;}
     footer .footer-line {
             margin: 0 6vw 0 2vw;
     }

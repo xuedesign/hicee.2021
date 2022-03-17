@@ -130,6 +130,15 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','qa.html');
+	$('#menuBox li:eq(6)').click(function(){
+		sendEvent('總選單_愛喜新包裝上市','click','愛喜新包裝上市');
+		if(location.href.indexOf('newpackage.html')>=0){
+			closeMenu();
+		}else{
+			location.href="newpackage.html"; // FIXME 消除.html
+		}
+		return false;
+	}).find('a').attr('href','newpackage.html');
 
 	$('.rule .close-button').click(function(){
 		if($('.form').length>0 && $('.form').css('display')!='none'){
