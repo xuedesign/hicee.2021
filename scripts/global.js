@@ -68,7 +68,7 @@ var localURL="http://www.hicee.com.tw/";
 $(function(){
 	$('.logo').css('cursor','pointer').click(function(){
 		sendEvent('首頁_LOGO','click','回首頁');
-		if(location.href.indexOf('news')>=0||location.href.indexOf('/hicee')>=0||location.href.indexOf('/eclass')>=0||location.href.indexOf('/qa.html')>=0){
+		if(location.href.indexOf('news')>=0||location.href.indexOf('/hicee')>=0||location.href.indexOf('/eclass')>=0||location.href.indexOf('/qa.html')>=0||location.href.indexOf('/newpackage.html')>=0){
 			location.href="index.html";
 		}else{
 			gScroll(0);closeMenu();
@@ -112,15 +112,17 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','.#50y');
+
 	$('#menuBox li:eq(0)').click(function(){
 		sendEvent('總選單_首頁','click','回首頁');
-		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0||location.href.indexOf('qa.html')>=0){
+		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0||location.href.indexOf('qa.html')>=0||location.href.indexOf('newpackage.html')>=0){
 			location.href="index.html";
 		}else{
 			gScroll(0);closeMenu();
 		}
 		return false;
-	}).find('a').attr('href','.');
+	}).find('a').attr('href','index.html');
+
 	$('#menuBox li:eq(5)').click(function(){
 		sendEvent('總選單_常見問題Q&A','click','常見問題Q&A');
 		if(location.href.indexOf('qa.html')>=0){
