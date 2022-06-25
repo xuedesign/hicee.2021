@@ -21,6 +21,7 @@
         <li><a href="">日本防護力保健專家</a></li>
         <li><a href="">常見問題Q&A</a></li>
         <li><a href="">愛喜新包裝上市</a></li>
+        <li><a href="">關於合利他命藥品</a></li>
     </ul>
     <!-- <ul>
         <li><a href="">愛紗的美麗秘密</a></li>

@@ -68,7 +68,7 @@ var localURL="http://www.hicee.com.tw/";
 $(function(){
 	$('.logo').css('cursor','pointer').click(function(){
 		sendEvent('首頁_LOGO','click','回首頁');
-		if(location.href.indexOf('news')>=0||location.href.indexOf('/hicee')>=0||location.href.indexOf('/eclass')>=0||location.href.indexOf('/qa.html')>=0||location.href.indexOf('/newpackage.html')>=0){
+		if(location.href.indexOf('news')>=0||location.href.indexOf('/hicee')>=0||location.href.indexOf('/eclass')>=0||location.href.indexOf('/qa.html')>=0||location.href.indexOf('/newpackage.html')>=0||location.href.indexOf('/history.html')>=0){
 			location.href="index.html";
 		}else{
 			gScroll(0);closeMenu();
@@ -115,7 +115,7 @@ $(function(){
 
 	$('#menuBox li:eq(0)').click(function(){
 		sendEvent('總選單_首頁','click','回首頁');
-		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0||location.href.indexOf('qa.html')>=0||location.href.indexOf('newpackage.html')>=0){
+		if(location.href.indexOf('hiceetab')>=0||location.href.indexOf('eclass')>=0||location.href.indexOf('news')>=0||location.href.indexOf('hiceec')>=0||location.href.indexOf('hiceee')>=0||location.href.indexOf('qa.html')>=0||location.href.indexOf('newpackage.html')>=0||location.href.indexOf('history.html')>=0){
 			location.href="index.html";
 		}else{
 			gScroll(0);closeMenu();
@@ -132,6 +132,7 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','qa.html');
+
 	$('#menuBox li:eq(6)').click(function(){
 		sendEvent('總選單_愛喜新包裝上市','click','愛喜新包裝上市');
 		if(location.href.indexOf('newpackage.html')>=0){
@@ -141,6 +142,16 @@ $(function(){
 		}
 		return false;
 	}).find('a').attr('href','newpackage.html');
+
+	$('#menuBox li:eq(7)').click(function(){
+		sendEvent('總選單_關於合利他命藥品','click','關於合利他命藥品');
+		if(location.href.indexOf('history.html')>=0){
+			closeMenu();
+		}else{
+			location.href="history.html"; // FIXME 消除.html
+		}
+		return false;
+	}).find('a').attr('href','history.html');
 
 	$('.rule .close-button').click(function(){
 		if($('.form').length>0 && $('.form').css('display')!='none'){

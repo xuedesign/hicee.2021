@@ -289,7 +289,7 @@
               <div class="footer-line"></div>
               <p>本網站係合利他命藥品股份有限公司所擁有，其內容之著作權亦屬於合利他命藥品股份有限公司，非經同意不得轉載。
                   <br> Copyright © Alinamin Pharmaceutical Taiwan Ltd. 2022 合利他命藥品股份有限公司版權所有
-                  <br>C-APROM/TW/AAS/0006 April 2022</p>
+                  <!-- <br>C-APROM/TW/AAS/0006 April 2022 --></p>
           </div>
         </footer>
     </div>
