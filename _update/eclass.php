@@ -49,6 +49,7 @@
     <link rel="stylesheet" type="text/css" href="css/reset.css">
     <link rel="stylesheet" type="text/css" href="css/global.css">
     <link rel="stylesheet" type="text/css" href="css/eclass.css">
+    <link rel="stylesheet" type="text/css" href="css/product.css">
     <script type="text/javascript">
     var pageName = "eclass"
     </script>
