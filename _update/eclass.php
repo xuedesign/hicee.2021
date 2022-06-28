@@ -147,10 +147,10 @@
     
     <div class="wrap">
         <section class="kv">
-            <div class="bottom-txt">
+            <!-- <div class="bottom-txt">
                 <div class="icon-fb"></div>
                 <div class="note"></div>
-            </div>
+            </div> -->
             <div class="grass left"><img src="images/eclass/kv_grass1.png"></div>
             <div class="grass right"><img src="images/eclass/kv_grass2.png"></div>
             <div class="main">
