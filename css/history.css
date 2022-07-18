@@ -234,6 +234,9 @@
     color: #000;
     opacity: 0.6;
 }
+/* .proContent .myimg{
+    margin-top: 30px;
+} */
 
 @media screen and (max-width: 1366px) {
     .pro-orange1 {
@@ -320,7 +323,7 @@
     }
     .proContent .myimg{
         width: 80%;
-        height: auto;
+        height: auto
     }
     #box_marquee{
         width: 600px
